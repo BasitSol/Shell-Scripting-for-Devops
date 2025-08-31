@@ -4,29 +4,26 @@ This repository contains my journey of learning and practicing **Shell Scripting
 
 ---
 
-## 📂 Repository Structure  
-
+📂 Repository Structure
 Shell-Scripting-for-DevOps/
 │
-├── day01/ # Basics of shell scripting
-│ ├── variables.sh
-│ ├── hello.sh
-│ └── ...
+├── day01/   # Basics of shell scripting
+│   ├── variables.sh
+│   ├── hello.sh
+│   └── ...
 │
-├── day02/ # Control structures and loops
-│ ├── for_loop.sh
-│ ├── while_loop.sh
-│ └── ...
+├── day02/   # Control structures and loops
+│   ├── for_loop.sh
+│   ├── while_loop.sh
+│   └── ...
 │
-├── day03/ # Functions and practical projects
-│ ├── functions.sh
-│ ├── backup.sh
-│ └── ...
+├── day03/   # Functions and practical projects
+│   ├── functions.sh
+│   ├── backup.sh
+│   └── ...
 │
 └── ...
 
-yaml
-Copy code
 
 ---
 
