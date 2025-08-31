@@ -3,7 +3,7 @@
 This repository contains my journey of learning and practicing **Shell Scripting** with a DevOps perspective. It is organized in a day-wise structure, covering everything from the very basics (variables, loops, functions) to more advanced and practical projects such as automating file backups.  
 
 ---
-
+```
 📂 Repository Structure
 Shell-Scripting-for-DevOps/
 │
@@ -24,7 +24,7 @@ Shell-Scripting-for-DevOps/
 │
 └── ...
 
-
+```
 ---
 
 ## 🛠 Topics Covered  
